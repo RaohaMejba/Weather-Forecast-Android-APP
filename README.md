@@ -95,3 +95,10 @@ All modules were verified for both accuracy and performance. Edge cases like inv
 [Picasso Library](https://square.github.io/picasso/)
 
 [Android Architecture Overview](https://source.android.com/)
+
+</br>
+</br>
+</br>
+
+
+**Note:** A complete report of this project is provided in the repository. For detailed reference anyone can go through the report. Thank you.
